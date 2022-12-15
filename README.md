@@ -1,6 +1,6 @@
-# web
-ISSI Team 544 - Impacts of climate change on the Middle and Upper Atmosphere and Atmospheric Drag of Space Objects
+# ISSI Team 544 - Impacts of climate change on the Middle and Upper Atmosphere and Atmospheric Drag of Space Objects
 
+The ISSI Team 544 is a team funded by the International Space Sciences Institute to study the impacts of climate change on the upper layers of the Earth's atmosphere and how it affects drag of satellites and space debris.
 
 **Meetings**
 1st meeting:
