@@ -11,8 +11,8 @@ The ISSI Team 544 is a team funded by the International Space Sciences Institute
 **Co-lead:** Ingrid Cnossen (British Antarctic Survey, Cambridge, UK)
 
 - Juan Carlos Antuña-Marrero (GOA-UVA, Universidad de Valladolid, Spain)
-- Matthew K. Brown (SENERE, University of Birmingham, UK)
 - Gufran Beig (NIAS, Indian Institute of Science, India)
+- Matthew K. Brown (SENERE, University of Birmingham, UK)
 - Eelco Doornbos (KNMI, The Netherlands)
 - Rolando García (NCAR, USA)
 - Lesley Gray (AOPP, University of Oxford, UK)
