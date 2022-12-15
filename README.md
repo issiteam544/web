@@ -6,8 +6,8 @@ ISSI Team 544 - Impacts of climate change on the Middle and Upper Atmosphere and
 1st meeting:
 9-13 January 2023 - Location: ISSI Headquarters (Bern)
 
-**Team members:**
-**Lead:** Juan A. Añel (EPhysLab, Universidade de Vigo, Ourense, Spain)
+**Team members:**   
+**Lead:** Juan A. Añel (EPhysLab, Universidade de Vigo, Ourense, Spain)   
 **Co-lead:** Ingrid Cnossen (British Antarctic Survey, Cambridge, UK)
 
 - Juan Carlos Antuña-Marrero (GOA-UVA, Universidad de Valladolid, Spain)
