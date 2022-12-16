@@ -18,7 +18,7 @@ The ISSI Team 544 is a team funded by the International Space Sciences Institute
 - Lesley Gray (AOPP, University of Oxford, UK)
 - Daniel Marsh (School of Physics and Astronomy, University of Leeds, UK & NCAR, USA)
 - Martin G. Mlynczak (NASA Langley Research Center, USA)
-- Shaylah Maria Mutschler
+- Shaylah Maria Mutschler (Space Environment Technologies LLC)
 - Petr Pišoft (Department of Atmospheric Physics, Charles University, Czech Republic)
 - Petr Šácha (Department of Atmospheric Physics, Charles University, Czech Republic)
 - Viktoria Sofieva (Finnish Meteorological Institute, Finland)
